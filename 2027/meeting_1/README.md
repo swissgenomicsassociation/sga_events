@@ -6,7 +6,7 @@ The first community meeting of the Swiss Genomics Association.
 **Location:** University of Zurich (UZH), Zürich, Switzerland  
 **Room:** To be announced  
 **Time:** 14:00  
-**Awards:** [2027 Open omics](https://github.com/swissgenomicsassociation/sga_awards/tree/main/2027_open_omics)
+**Awards:** [2027 Open Omics Awards](https://github.com/swissgenomicsassociation/sga_awards/tree/main/2027_open_omics)
 
 ## About
 
@@ -38,9 +38,9 @@ Further information about participation and registration will be announced here.
 ## SGA Open Omics Awards
 
 The meeting will also introduce the 2027 Open Omics Awards, an initiative recognising those who create shared foundation for the future.
-Please see the information page for details: [2027 Open Omics Awards](https://github.com/swissgenomicsassociation/sga_awards/tree/main/2027_open_omics).Anyone may submit a nomination, and **self-nominations are encouraged**.
+Please see the information page for details: [2027 Open Omics Awards](https://github.com/swissgenomicsassociation/sga_awards/tree/main/2027_open_omics). Anyone may submit a nomination, and **self-nominations are encouraged**.
 We welcome nominations from all backgrounds including industry, academia, healthcare, public organisations, non-profit initiatives, community projects, and individuals. 
-To nominate a contribution, email [admin@swissgenomicsassociation.ch](mailto:admin@swissgenomicsassociation.ch) with:
+To nominate a contribution, email [admin@swissgenomicsassociation.ch](mailto:admin@swissgenomicsassociation.ch) as explained on the information page.
 
 ## Materials
 
