@@ -49,6 +49,17 @@ Please see the information page for details: [2027 Open Omics Awards](https://gi
 We welcome nominations from all backgrounds including industry, academia, healthcare, public organisations, non-profit initiatives, community projects, and individuals. 
 To nominate a contribution, email [admin@swissgenomicsassociation.ch](mailto:admin@swissgenomicsassociation.ch) as explained on the information page.
 
+## Supporting organisations
+
+Genomics works best when academia, healthcare and industry can connect their systems and build on shared standards. This seminar brings those communities together to help make that possible.
+We are working with organisations that share this goal and can support the seminar financially or in kind. Supporting organisations will be acknowledged on this page and at the event.
+Support does not influence the scientific programme, SGA guidance or the Open Omics Awards.
+To discuss support, contact [admin@swissgenomicsassociation.ch](mailto:admin@swissgenomicsassociation.ch).
+
+### Supporting organisations
+
+To be announced.
+
 ## Materials
 
 Public materials from the meeting may be added here after the event where appropriate and with the agreement of the respective speakers or contributors.
