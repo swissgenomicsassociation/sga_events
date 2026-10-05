@@ -1,18 +1,25 @@
-# SGA meeting 1
+---
+title: "Swiss Genomics Association 2027 seminar"
+layout: page
+description: "Emerging standards with lasting collective value."
+permalink: "/events/2027/seminar-1/"
+lang: en
+---
 
-The first community meeting of the Swiss Genomics Association.
+## Emerging standards with lasting collective value
 
-**Date:** Wednesday, 7 April 2027  
+**Date:** Wednesday, 12 May 2027  
 **Location:** University of Zurich (UZH), Zürich, Switzerland  
 **Room:** To be announced  
 **Time:** 14:00  
-**Awards:** [2027 Open Omics Awards](https://github.com/swissgenomicsassociation/sga_awards/tree/main/2027_open_omics)
+**Awards:** [2027 Open Omics Awards](/awards/2027/open-omics/)
 
 ## About
 
-SGA meeting 1 will bring together members and guests of the Swiss Genomics Association for a focused discussion on current and emerging priorities in genomics.
-The meeting marks the beginning of the Association's community meeting programme and provides a forum for sharing work, discussing common challenges, and identifying areas where coordinated effort can be useful.
-The programme will be intentionally small, with a series of short invited talks followed by open discussion.
+Genomics and multi-omics increasingly connects academia, healthcare, and industry. Yet many of the systems used to generate, analyse, and interpret data still rely on different formats, interfaces, and conventions.
+Shared standards can make these systems easier to connect, compare, and verify while allowing each organisation to choose its own methods, software, and commercial model.
+This seminar brings together people from across genomics and multi-omics to discuss emerging formats, interfaces, software standards and evidence structures that create and amplify lasting collective value.
+The programme will be intentionally focused, with short invited talks, open discussion, the 2027 Open Omics Awards and informal networking.
 
 ## Programme
 
@@ -24,15 +31,15 @@ The programme is currently being developed.
 * Coffee break
 * Short talk 3, 20 minutes, Q&A
 * Short talk 4, 20 minute, Q&As
-* [2027 Open Omics Awards](https://github.com/swissgenomicsassociation/sga_awards/tree/main/2027_open_omics), 20 minutes
+* [2027 Open Omics Awards](/awards/2027/open-omics/), 20 minutes
 * Discussion: priorities for SGA 2027–2028, 30 minutes
-* Informal drinks / networking
+* Informal apero / networking
 
 Speaker names, talk titles and timings will be announced here.
 
 ## Participation
 
-The meeting is intended for people working across multi-omics, genetics, bioinformatics, computational biology, clinical genomics, data science, research infrastructure, industry, policy and related areas.
+The seminar is intended for people working across multi-omics, genetics, bioinformatics, computational biology, clinical genomics, data science, research infrastructure, industry, policy and related areas.
 Further information about participation and registration will be announced here.
 
 ## SGA Open Omics Awards
