@@ -51,18 +51,9 @@ To nominate a contribution, email [admin@swissgenomicsassociation.ch](mailto:adm
 
 ## Materials
 
-Public materials from the meeting may be added to this repository after the event where appropriate and with the agreement of the respective speakers or contributors.
+Public materials from the meeting may be added here after the event where appropriate and with the agreement of the respective speakers or contributors.
 
 ## Updates
 
-This page is the public record for SGA meeting 1 and will be updated as the programme, venue and participation details are confirmed.
+This page is the public record for SGA 2027 seminar and will be updated as the programme, venue and participation details are confirmed.
 
-## Swiss Genomics Association
-
-The Swiss Genomics Association is a national collaboration working to develop open, evidence-based standards and guidance for genomics in health, research and national practice.
-
-- [Swiss Genomics Association](https://www.swissgenomicsassociation.ch/)
-- [Members](https://www.swissgenomicsassociation.ch/members/)
-- [Releases](https://www.swissgenomicsassociation.ch/releases/)
-- [GitHub](https://github.com/swissgenomicsassociation/)
-- [Contact](https://www.swissgenomicsassociation.ch/contact/)
