@@ -16,10 +16,13 @@ lang: en
 
 ## About
 
-Genomics and multi-omics increasingly connects academia, healthcare, and industry. Yet many of the systems used to generate, analyse, and interpret data still rely on different formats, interfaces, and conventions.
+Genomics and multi-omics increasingly connect academia, healthcare, and industry. Yet many of the systems used to generate, analyse, and interpret data still rely on different formats, interfaces, and conventions.
+
 Shared standards can make these systems easier to connect, compare, and verify while allowing each organisation to choose its own methods, software, and commercial model.
-This seminar brings together people from across genomics and multi-omics to discuss emerging formats, interfaces, software standards and evidence structures that create and amplify lasting collective value.
-The programme will be intentionally focused, with short invited talks, open discussion, the 2027 Open Omics Awards and informal networking.
+
+This seminar brings together people from across genomics and multi-omics to discuss emerging formats, interfaces, software standards, and evidence structures that create and amplify lasting collective value.
+
+The programme will be intentionally focused, with short invited talks, open discussion, the 2027 Open Omics Awards, and informal networking.
 
 ## Programme
 
@@ -30,30 +33,37 @@ The programme is currently being developed.
 * Short talk 2, 20 minutes, Q&A
 * Coffee break
 * Short talk 3, 20 minutes, Q&A
-* Short talk 4, 20 minute, Q&As
+* Short talk 4, 20 minutes, Q&A
 * [2027 Open Omics Awards](/awards/2027/open-omics/), 20 minutes
 * Discussion: priorities for SGA 2027–2028, 30 minutes
-* Informal apero / networking
+* Informal apéro / networking
 
-Speaker names, talk titles and timings will be announced here.
+Speaker names, talk titles, and timings will be announced here.
 
 ## Participation
 
-The seminar is intended for people working across multi-omics, genetics, bioinformatics, computational biology, clinical genomics, data science, research infrastructure, industry, policy and related areas.
+The seminar is intended for people working across multi-omics, genetics, bioinformatics, computational biology, clinical genomics, data science, research infrastructure, industry, policy, and related areas.
+
 Further information about participation and registration will be announced here.
 
 ## SGA Open Omics Awards
 
-The meeting will also introduce the 2027 Open Omics Awards, an initiative recognising those who create shared foundation for the future.
-Please see the information page for details: [2027 Open Omics Awards](https://github.com/swissgenomicsassociation/sga_awards/tree/main/2027_open_omics). Anyone may submit a nomination, and **self-nominations are encouraged**.
-We welcome nominations from all backgrounds including industry, academia, healthcare, public organisations, non-profit initiatives, community projects, and individuals. 
+The seminar will also introduce the 2027 Open Omics Awards, an initiative recognising those who create a shared foundation for the future.
+
+Please see the information page for details: [2027 Open Omics Awards](/awards/2027/open-omics/). Anyone may submit a nomination, and **self-nominations are encouraged**.
+
+We welcome nominations from all backgrounds, including industry, academia, healthcare, public organisations, non-profit initiatives, community projects, and individuals.
+
 To nominate a contribution, email [admin@swissgenomicsassociation.ch](mailto:admin@swissgenomicsassociation.ch) as explained on the information page.
 
 ## Supporting organisations
 
-Genomics works best when academia, healthcare and industry can connect their systems and build on shared standards. This seminar brings those communities together to help make that possible.
+Genomics works best when academia, healthcare, and industry can connect their systems and build on shared standards. This seminar brings those communities together to help make that possible.
+
 We are working with organisations that share this goal and can support the seminar financially or in kind. Supporting organisations will be acknowledged on this page and at the event.
-Support does not influence the scientific programme, SGA guidance or the Open Omics Awards.
+
+Support does not influence the scientific programme, SGA guidance, or the Open Omics Awards.
+
 To discuss support, contact [admin@swissgenomicsassociation.ch](mailto:admin@swissgenomicsassociation.ch).
 
 ### Supporting organisations
@@ -62,9 +72,8 @@ To be announced.
 
 ## Materials
 
-Public materials from the meeting may be added here after the event where appropriate and with the agreement of the respective speakers or contributors.
+Public materials from the seminar may be added here after the event where appropriate and with the agreement of the respective speakers or contributors.
 
 ## Updates
 
-This page is the public record for SGA 2027 seminar and will be updated as the programme, venue and participation details are confirmed.
-
+This page is the public record for the SGA 2027 seminar and will be updated as the programme, venue, and participation details are confirmed.
