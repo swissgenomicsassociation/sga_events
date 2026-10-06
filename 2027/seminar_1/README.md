@@ -9,7 +9,7 @@ lang: en
 ## Emerging standards with lasting collective value
 
 **Date:** Wednesday, 12 May 2027  
-**Location:** University of Zurich (UZH), Zürich, Switzerland  
+**Location:** Zürich
 **Room:** To be announced  
 **Time:** 14:00  
 **Awards:** [2027 Open Omics Awards](/awards/2027/open-omics/)
@@ -49,9 +49,7 @@ Further information about participation and registration will be announced here.
 ## SGA Open Omics Awards
 
 The seminar will also introduce the 2027 Open Omics Awards, an initiative recognising those who create a shared foundation for the future.
-
 Please see the information page for details: [2027 Open Omics Awards](/awards/2027/open-omics/). Anyone may submit a nomination, and **self-nominations are encouraged**.
-
 We welcome nominations from all backgrounds, including industry, academia, healthcare, public organisations, non-profit initiatives, community projects, and individuals.
 
 To nominate a contribution, email [admin@swissgenomicsassociation.ch](mailto:admin@swissgenomicsassociation.ch) as explained on the information page.
@@ -59,11 +57,8 @@ To nominate a contribution, email [admin@swissgenomicsassociation.ch](mailto:adm
 ## Supporting organisations
 
 Genomics works best when academia, healthcare, and industry can connect their systems and build on shared standards. This seminar brings those communities together to help make that possible.
-
 We are working with organisations that share this goal and can support the seminar financially or in kind. Supporting organisations will be acknowledged on this page and at the event.
-
 Support does not influence the scientific programme, SGA guidance, or the Open Omics Awards.
-
 To discuss support, contact [admin@swissgenomicsassociation.ch](mailto:admin@swissgenomicsassociation.ch).
 
 ### Supporting organisations
