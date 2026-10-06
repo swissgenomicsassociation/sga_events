@@ -12,7 +12,8 @@ lang: en
 **Location:** Zürich
 **Room:** To be announced  
 **Time:** 14:00  
-**Awards:** [2027 Open Omics Awards](/awards/2027/open-omics/)
+**Awards:** [2027 Open Omics Awards](/awards/2027/open-omics/)  
+**Registration:** <https://forms.gle/G3o32RFVUqow8QLR7>
 
 ## About
 
@@ -23,6 +24,13 @@ Shared standards can make these systems easier to connect, compare, and verify w
 This seminar brings together people from across genomics and multi-omics to discuss emerging formats, interfaces, software standards, and evidence structures that create and amplify lasting collective value.
 
 The programme will be intentionally focused, with short invited talks, open discussion, the 2027 Open Omics Awards, and informal networking.
+
+## Registration
+
+Registration is required but entry is free.
+We will contact you with more information as the date approaches. 
+
+**Registration here:** <https://forms.gle/G3o32RFVUqow8QLR7>
 
 ## Programme
 
